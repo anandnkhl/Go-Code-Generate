@@ -1,0 +1,4 @@
+vendor
+packrd
+*-packr.go
+.idea/

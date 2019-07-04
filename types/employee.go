@@ -1,6 +1,6 @@
 package types
 
-//go:generate ./jsongen -package=types -name=e -type=Employee -pointer
+//go:generate ../main -package=types -name=e -type=Employee -pointer
 type Employee struct {
 	Name   string
 	Age    int
